@@ -1,0 +1,13 @@
+AWS:: World's most comprehensive and broadly adopted cloud platform.
+
+AWS DEVELOPER TOOLS::--
+
+1.) Web console- Simple web interface for Amazon web Services.
+
+2.) Command Line Tool- Control your AWS Services from the command line and automate services management with scripts.
+
+3.) IDE- Write, run, debug and deploy application on AWS.
+
+4.) SDK- Simplify coding with language specific abstracted API's for AWS service.
+
+5.) Infrastructure as Code- Define cloud infrastructure using familiar programming language.
