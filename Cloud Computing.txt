@@ -1,0 +1,31 @@
+AWS offers a massive range of services for every business, starting with basic elements like computer, storage, through complex solutions like blockchains, ML or AI and robot development.
+
+Key Value:-- YOU ONLY PAY FOR WHAT YOU USE.
+
+##Cloud Computing:--
+	
+	1.) On demand delivery of IT resources over the internet with pay as-go-you-go-pricing.
+		**AWS has the resources you need, when you need them.
+		**The idea of IT resources is actually a big part of the AWS philosophy.
+	2.) Deployment models for the Cloud Computing:--
+		>>Cloud-based deployment:- 
+			i.)Run all parts of the application.
+			ii.)Design, build new applications.
+			iii.)Migrate existing application to the cloud.
+		>>On permises deployment:--
+			i.)Deploy resources by using Virtualization.
+			ii.)Increase resources utilization.
+		>>Hybrid deployment:--
+			i.)Connect cloud-based resources to on-permises infrastructure.
+			ii.)Integrate cloud-based resources with legacy IT applications.
+	3.) Benefits of Cloud Computing:--
+		>>Go Global in minutes.
+		>>Increase Speed and agility.
+		>>Stop guessing capacity.
+		>>Benefit from massive economies of scale.
+		>>Stop spending money to run and maintain data centres.
+	4.) Types of Cloud-Computing:--
+		>>Infrastructure as a service(IaaS):: Contains the basic building blocks for cloud IT.
+		>>Platform as a Service(PaaS):: Remove the need for you to manage underlying infrastructure(hardware and OS).
+		>>Software as a Service(SaaS):: Provides with a complete product that is run and managed by service provider.
+
