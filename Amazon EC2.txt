@@ -1,0 +1,43 @@
+Introduction to Amazon EC2:-
+
+>>To gain access to virtual servers.
+>>Highly flexible, cose- effective and quick when campare to running own servers on-permises in a data centre that you own.
+>>EC2 runs in top of physical host machines managed by AWS using virtualization technology.
+>>A hypervisor is running on the host machine which is responsible for sharing underlying physical resources.
+>>EC2 instances are also resizeable(vertically scale).
+
+How Amazon EC2 works?
+
+1.) LAUNCH:--
+
+	> Begin by selecting a template with basic configurations for your instance.
+	> Configuration include:- OS, Application server or application.
+	> You can select the instance type i.e.,hardware configuration.
+	> You can specific security settings to control the network traffic.
+
+2.) CONNECT:--
+
+	> Next connect to the instance through several ways.
+	> Users can also connect by LOGGING IN.
+
+3.) USE:--
+
+	> Run commands to install software, add storage, copy and organise files and more.
+
+Amazon EC2 instance types:-
+
+1.) GENERAL PURPOSE- Provide a balance of compute, memory and networking resources.
+					**Application servers, gaming server, backened server, small and medium database(code repositories).
+
+2.) COMPUTE OPTIMIZED INSTANCE- Ideal for compute-bound applications.Can also use for batch processing workloads.
+							   **Web, application and gaming servers, scientific modeling.
+
+3.) MEMORY OPTIMIZED INSTANCES- Deliver fast performance for workloads that process large datasets in memory. 
+
+4.) ACCELERATED COMPUTING INSTANCES- Use hardware accelerators or coprocessors to perform some function more efficiently.
+									**Graphics application, game streaming, application streaming, data pattern matching.
+
+5.) STORAGE OPTIMIZED INSTANCES- Requires high, sequential read and write access to large dataset on local storage.
+								**Distributed file system, data warehousing application, high-frequency online transacing.
+
+							
